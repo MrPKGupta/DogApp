@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DogAPI</string>
+    <string name="image_caption">Dog of the day!</string>
+    <string name="caption_dog_image">Random Dog Image</string>
 </resources>
